@@ -1,10 +1,5 @@
 # HW 1: The Simplest Distributed System
 
-
-In this exercise you will build the simplest type of distributed system---a client/server application. For simplicity we will run both the client and the server on the same computer: a "container" running on the CodeAnywhere web site.
-
- - First step: [Setup accounts for Git and CodeAnywhere](/accounts/)
-
 #### A very simple Message Board
 Our program will do the following:
 
@@ -17,11 +12,11 @@ The **client** connects to the server and sends its name and the message it want
 ## Getting the code
 
 Before you can begin you need to get a copy of the sample code inside your CodeAnywhere container.
-  * Create your repository using THIS LINK (will be filled in shortly)
-  * Clone your repository into your CodeAnywhere container by running:
+  * Clone your repository into your CodeAnywhere container by running: (fill in the URL from your repo website)
 ```
-git clone
+git clone YOUR_URL
 ```
+  * Then you should right click on the CS6421 container name and "Refresh" so that the repo files appear in the File Hierarchy.
 
 ## Starting the Server
 The provided server is written in Java so you will need to compile and then run the program as follows.
