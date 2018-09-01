@@ -1,4 +1,4 @@
-# Lec 1: The Simplest Distributed System
+# HW 1: The Simplest Distributed System
 
 
 In this exercise you will build the simplest type of distributed system---a client/server application. For simplicity we will run both the client and the server on the same computer: a "container" running on the CodeAnywhere web site.
