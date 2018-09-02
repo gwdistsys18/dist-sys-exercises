@@ -91,10 +91,10 @@ Both return the amount of data sent or received, and take arguments indicating t
 
 Allowable links (**you may not go to any websites except these**):
   * [C for java programmers](http://www.cprogramming.com/java/c-and-c++-for-java-programmers.html)
-  * [getaddrinfo API](http://beej.us/guide/bgnet/output/html/multipage/getaddrinfoman.html)
-  * [socket API](http://beej.us/guide/bgnet/output/html/multipage/socketman.html)
-  * [connect API](http://beej.us/guide/bgnet/output/html/multipage/connectman.html)
-  * [send](http://beej.us/guide/bgnet/output/html/multipage/sendman.html) and [receive](http://beej.us/guide/bgnet/output/html/multipage/recvman.html) APIs
+  * [getaddrinfo API](http://beej.us/guide/bgnet/html/single/bgnet.html#getaddrinfoman)
+  * [socket API](http://beej.us/guide/bgnet/html/single/bgnet.html#socketman)
+  * [connect API](http://beej.us/guide/bgnet/html/single/bgnet.html#connectman)
+  * [send](http://beej.us/guide/bgnet/html/single/bgnet.html#sendman) and [receive](http://beej.us/guide/bgnet/html/single/bgnet.html#recvman) APIs
   * The course's Piazza message board
 
 ## Client 2: Sockets in Java
